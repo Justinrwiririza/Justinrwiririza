@@ -3,6 +3,7 @@
 
   - [Home SOC Analysis with Azure](https://github.com/Justinrwiririza/Home-SOC-Analysis-with-Azure/tree/main)
   - [Active Directory Home Lab](https://github.com/Justinrwiririza/Home-SOC-Analysis-with-Azure/tree/main)
+  - [CyberSec RedBlue Home Lab](https://github.com/Justinrwiririza/Home-SOC-Analysis-with-Azure/tree/main)
 
 <h2>📺 Certifications</h2>
 
