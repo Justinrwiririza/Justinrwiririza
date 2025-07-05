@@ -2,8 +2,9 @@
 <a href="https://www.linkedin.com/in/justin-rwiririza">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
+<a href="mailto:rwiririzajustin@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+</a>
 
 
 I am a recent graduate with a strong foundation in computer science and cybersecurity, driven by a passion for protecting digital assets and solving complex security challenges..
