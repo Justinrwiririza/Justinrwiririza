@@ -1,8 +1,8 @@
 <h1>Hi, I'm Justin! 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Home SOC Analysis with Azure](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Home SOC Analysis with Azure](https://github.com/Justinrwiririza/Home-SOC-Analysis-with-Azure/tree/main)
+  - [Active Directory Home Lab](https://github.com/Justinrwiririza/Home-SOC-Analysis-with-Azure/tree/main)
 
 <h2>📺 Certifications</h2>
 
