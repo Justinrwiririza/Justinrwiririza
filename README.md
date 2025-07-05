@@ -12,7 +12,7 @@ I am a recent graduate with a strong foundation in computer science and cybersec
 ## Objective
 
 
-My background in computer science, combined with hands-on cybersecurity training and real-world SOC experience, has solidified my passion for defending digital infrastructure. I am now focused on launching my professional career as a Tier 1 SOC Analyst, where I can apply my technical skills in threat detection, log analysis, and incident response to help organizations stay secure.
+As an aspiring SOC Tier 1 Analyst, my goal is to actively monitor security alerts, perform initial triage, and escalate incidents to protect organizational assets. I aim to apply strong analytical skills and attention to detail to identify potential threats and minimize false positives. I am committed to learning and following SOC processes and best practices while collaborating effectively with the security team. My focus is on gaining hands-on experience in real-time threat detection and incident response to build a solid foundation in cybersecurity operations.
 
 ## Skills
 
