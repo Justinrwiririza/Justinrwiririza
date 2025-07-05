@@ -2,6 +2,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - [Home SOC Analysis with Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Certifications</h2>
 
