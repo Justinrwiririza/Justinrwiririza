@@ -86,7 +86,7 @@ As an aspiring SOC Tier 1 Analyst, my goal is to actively monitor security alert
   
 ## Projects
   - [Home SOC Analysis with Azure](https://github.com/Justinrwiririza/Home-SOC-Analysis-with-Azure/tree/main)
-  - [Active Directory Home Lab](https://github.com/Justinrwiririza/Home-SOC-Analysis-with-Azure/tree/main)
+  - [Active Directory Home Lab](https://github.com/Justinrwiririza/Active-Directory-Home-Lab)
   - [CyberSec RedBlue Home Lab](https://github.com/Justinrwiririza/Home-SOC-Analysis-with-Azure/tree/main)
 
 
