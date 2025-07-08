@@ -20,10 +20,10 @@ As an aspiring SOC Tier 1 Analyst, my goal is to actively monitor security alert
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|                                               |                   |
+|                                               |                   |
+|                                               |                   |
+|                                               |                  |
 
 ## Tools
 
@@ -48,8 +48,11 @@ As an aspiring SOC Tier 1 Analyst, my goal is to actively monitor security alert
 </div>
 
 ## Certifications
-
 <div>
+<a href="https://aspen.eccouncil.org/VerifyBadge?type=certification&a=YLsxAnV+FP8ANczED9zMUSUqcPzHdwgnxLdxUPoi1p8=" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-CEH-black?&style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Certified Ethical Hacker (CEH)" />
+</a>
+
 <a href="https://www.credly.com/earner/earned/badge/3ed42ae9-0ba8-4b5a-929c-9e2da72c21b5" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-CySA%2B-228B22?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA CySA+ Certificate" />
 </a>
