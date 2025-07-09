@@ -18,12 +18,12 @@ As an aspiring SOC Tier 1 Analyst, my goal is to actively monitor security alert
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-|                                               |                   |
-|                                               |                   |
-|                                               |                   |
-|                                               |                  |
+|                                               |                            |
+|                                               |                            |
+|                                               |                            |
+|                                               |                            |
+|                                               |                            |
+|                                               |                            |
 
 ## Tools
 
@@ -88,8 +88,6 @@ As an aspiring SOC Tier 1 Analyst, my goal is to actively monitor security alert
 
   
 ## Projects
-  - [Home SOC Analysis with Azure](https://github.com/Justinrwiririza/Home-SOC-Analysis-with-Azure/tree/main)
-  - [Active Directory Home Lab](https://github.com/Justinrwiririza/Active-Directory-Home-Lab)
   - [CyberSec RedBlue Home Lab](https://github.com/Justinrwiririza/CyberSec-RedBlue-Home-Lab)
 
 
